@@ -59,7 +59,7 @@ INSERT INTO inventario values
 1. Clonar el repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/Konscio/desafio-tienda-de-joyas.git
 ```
 
 2. Ingresar a la carpeta del proyecto
